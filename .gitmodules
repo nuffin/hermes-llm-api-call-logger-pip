@@ -1,0 +1,3 @@
+[submodule "llm_api_call_logger"]
+	path = llm_api_call_logger
+	url = https://github.com/nuffin/hermes-llm-api-call-logger.git
