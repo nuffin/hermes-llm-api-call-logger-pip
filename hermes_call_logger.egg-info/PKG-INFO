@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: hermes-call-logger
+Version: 1.0.0
+Summary: Log every LLM API call with full request/response for Hermes Agent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+
+# hermes-call-logger
+
+Log every LLM API call with full request/response for Hermes Agent.
+
+## Install
+
+```bash
+pip install hermes-call-logger
+```

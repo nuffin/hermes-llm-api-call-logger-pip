@@ -1,0 +1,2 @@
+[hermes_agent.plugins]
+llm-api-call-logger = llm_api_call_logger:register
