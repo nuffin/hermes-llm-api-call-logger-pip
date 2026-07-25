@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "hermes-call-logger"
+name = "hermes-llm-api-call-logger-pip"
 version = "1.0.0"
 description = "Log every LLM API call with full request/response for Hermes Agent"
 readme = "README.md"
