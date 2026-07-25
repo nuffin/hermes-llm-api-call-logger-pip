@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hermes-llm-api-call-logger"
-version = "1.1.0"
+version = "1.1.1"
 description = "Log every LLM API call with full request/response for Hermes Agent"
 readme = "README.md"
 requires-python = ">=3.11"
