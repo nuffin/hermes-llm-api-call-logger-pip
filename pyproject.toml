@@ -11,10 +11,10 @@ requires-python = ">=3.11"
 dependencies = []
 
 [project.entry-points."hermes_agent.plugins"]
-llm-api-call-logger = "llm_api_call_logger:register"
+llm-api-call-logger = "hermes_llm_api_call_logger:register"
 
 [project.urls]
 Source = "https://github.com/nuffin/hermes-llm-api-call-logger-pip"
 
 [tool.setuptools.packages.find]
-include = ["llm_api_call_logger*"]
+include = ["hermes_llm_api_call_logger*"]
